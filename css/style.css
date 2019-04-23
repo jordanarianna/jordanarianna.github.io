@@ -267,7 +267,7 @@ ul.header-nav{
 }
 
 header .logo > a{
-  font-size:23px;
+  font-size:40px;
   font-weight:800;
   float:left;
   line-height:80px;
@@ -385,11 +385,11 @@ CONTENT
 }
 
 .content .text-intro p{
-  font-size:13px;
+  font-size:25px;
   color:#8d8d8d;
   margin-top:30px;
   font-weight:400;
-  line-height:22px;
+  line-height:30px;
   letter-spacing:1px;
   width:40%;
 }
@@ -444,7 +444,7 @@ HOME SIDEBAR
   background:#f4f4f4;
   z-index:9;
   overflow:hidden;
-  background-size:100%;
+  background-size:110%;
 }
 
 .parallax{

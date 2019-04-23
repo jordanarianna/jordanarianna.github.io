@@ -168,8 +168,8 @@ $(document).ready(function(){
 	setTimeout( function(){
 		if($("#site-type").length) {
         $(".typewrite span").typed({
-            strings: ["yum", "foods "],
-            typeSpeed: 100,
+            strings: ["laughs", "travels", "foods "],
+            typeSpeed: 500,
             backDelay: 500,
             loop: false,
             contentType: 'html', // or text
